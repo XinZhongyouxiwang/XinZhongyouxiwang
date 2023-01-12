@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @XinZhongyouxiwang
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in computer
+- 🌱 I’m currently learning Web
 - 📫 How to reach me mr.chenmail@petalmail.com
 -
 <!---
